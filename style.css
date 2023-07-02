@@ -1,8 +1,8 @@
 body {
-  background-color: rgba(146, 0, 0, 0.959);
+  background-color: rgba(23, 0, 78, 0.959);
 }
 #container {
-  border: 1px solid blue;
+  border: 1px solid red;
   height: 712px;
   width: 360px;
   margin: auto;
@@ -10,6 +10,6 @@ body {
 
 #profile img {
   display: block;
-  width: 120px;
+  width: 140px;
   margin: auto;
 }
