@@ -1,0 +1,15 @@
+body {
+  background-color: rgba(146, 0, 0, 0.959);
+}
+#container {
+  border: 1px solid blue;
+  height: 712px;
+  width: 360px;
+  margin: auto;
+}
+
+#profile img {
+  display: block;
+  width: 120px;
+  margin: auto;
+}
